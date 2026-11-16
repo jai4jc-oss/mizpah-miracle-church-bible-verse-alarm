@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Mizpah Miracle Church Bible Verse Alarm",
+    "slug": "mizpah-miracle-church-bible-verse-alarm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F1E9"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mizpahmiraclechurch.bibleversealarm"
+    },
+    "android": {
+      "package": "com.mizpahmiraclechurch.bibleversealarm",
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F1E9"
+      }
+    }
+  }
+}
